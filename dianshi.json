@@ -39,7 +39,7 @@
     {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
     {"key": "YGP","name": "🚀叨观荐影┃预告片","type": 3,"api": "csp_YGPGuard","searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "seed","name": "💡聚剧剧┃三盘","type": 3,"api": "csp_SeedhubGuard","ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable": 1,"quickSearch": 1,"changeable": 0,"indexs": 0,"style": {"type": "list"}},
-    {"key": "ZPan","name": "🎈聚盘搜┃三盘","type": 3,"api": "csp_S_zpsGuard","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"siteUrl": "http://124.221.190.51:8800/"},"indexs": 0,"style": {"type": "list"}},
+    {"key": "ZPan","name": "🎈聚盘搜┃三盘","type": 3,"api": "csp_S_zpsGuard","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"siteUrl": "http://38.55.131.86:82/"},"indexs": 0,"style": {"type": "list"}},
     {"key": "立播","name": "🌟立播┃秒播","type": 3,"api": "csp_LibvioGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
     {"key": "厂长","name": "📔厂长┃秒播","type": 3,"api": "csp_NewCzGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_JpysGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
